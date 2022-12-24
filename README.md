@@ -1,6 +1,15 @@
 # Marksheet management system
-The marksheet management system is another way to publish student marksheet online. You can install the Marksheet management system on any website using the simple installer. The marksheet management system is created in PHP with the MYSQL database. You can easily on your website or local server. The marksheet management system is an advanced feature of the result management system. Admin can create student mark sheet with student name, roll number, and student image. 
-The mark sheet system is created for colleges and schools. We have designed and managed students' results as well as mark sheet with college or school watermark. You can set any background image of school or college as a watermark. This is known as a result management system or online marksheet web application. The online marksheet system is written by PHP programming and a database organized by MYSQL. It’s a complete student result in website software that is used to create results, manage classes, manage subjects, and publish results (as marksheet)online. 
+The marksheet management system is another way to publish student marksheet online. You can install the Marksheet management system on any website using the simple installer. The marksheet management system is created in PHP with the MYSQL database. You can easily on your website or local server. The marksheet management system is an advanced feature of the result management system. 
+![image](https://user-images.githubusercontent.com/41726733/209435950-8dcbd4ca-02e9-4cdf-b265-4e58b8056afa.png)
+
+Admin can create student mark sheet with student name, roll number, and student image. 
+The mark sheet system is created for colleges and schools.
+![image](https://user-images.githubusercontent.com/41726733/209435957-4bf7f1d9-8af1-4933-ac3e-de275fc00d67.png)
+
+We have designed and managed students' results as well as mark sheet with college or school watermark. You can set any background image of school or college as a watermark. This is known as a result management system or online marksheet web application. 
+![image](https://user-images.githubusercontent.com/41726733/209435965-54bee661-8f12-4f2d-9aaa-5f4411b6866b.png)
+
+The online marksheet system is written by PHP programming and a database organized by MYSQL. It’s a complete student result in website software that is used to create results, manage classes, manage subjects, and publish results (as marksheet)online. 
 # Features – 
 <strong>1.Result (Marksheet) management system interface –</strong> We have developed a result (Marksheet) management web application in PHP.<br>
 <strong>2. Admin panel </strong><br>
