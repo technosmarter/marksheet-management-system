@@ -21,11 +21,17 @@ The mark sheet system is created for colleges and schools. We have designed and 
 
 # Installation – 
 The marksheet management system is developed with a installer. You can easily install marksheet management system with a single form . <br>
-1.	First , get marksheet management system from here . You can watch complete demo there . Get marksheet management system and download the zip file . <br>
+1.	First , get <a href="https://technosmarter.com/item/result-management-system-with-marksheet-in-php-website">marksheet management system</a> from here . You can watch complete demo there . Get marksheet management system and download the zip file . <br>
 2.	Extract the zip file. <br>
 3.	Use live server or local server.<br> 
 4.	Open URL on your browser.<br> 
 5.	You will see an installation form . Fill up details like – host , database name , username and password. <br>
 6.	Next, create an admin user.<br> 
 7.	You can contact for installation support and more. <br>
+8.	 # Developer 
+ <a href="https://technosmarter.com">Techno Smarter </a>
+ # Result management system with Marksheet in PHP website | PHP Scripts 
+ <a href="https://technosmarter.com/item/result-management-system-with-marksheet-in-php-website">Result management system with Marksheet in PHP website | PHP Scripts</a>
+ 
+ 
 
