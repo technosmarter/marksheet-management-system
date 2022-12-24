@@ -27,8 +27,8 @@ The marksheet management system is developed with a installer. You can easily in
 4.	Open URL on your browser.<br> 
 5.	You will see an installation form . Fill up details like – host , database name , username and password. <br>
 6.	Next, create an admin user.<br> 
-7.	You can contact for installation support and more. <br>
-8.	 # Developer 
+7.	You can <a href="https://technosmarter.com/contact">contact</a> for installation support and more. <br>
+# Developer 
  <a href="https://technosmarter.com">Techno Smarter </a>
  # Result management system with Marksheet in PHP website | PHP Scripts 
  <a href="https://technosmarter.com/item/result-management-system-with-marksheet-in-php-website">Result management system with Marksheet in PHP website | PHP Scripts</a>
